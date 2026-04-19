@@ -1,0 +1,17 @@
+{
+    "wifi": {
+        "ssid": "YOUR-WIFI-NAME",
+        "password": "YOUR-WIFI-PASSWORD"
+    },
+    "settings": {
+        "vag_network": "vgn",
+        "hid": "701",
+        "brightness": 6,
+        "clock_duration_seconds": 30
+    },
+    "lines": [
+        {"num": 1, "id": 510, "code": "RE1", "scroll": 9},
+        {"num": 40, "id": 510, "code": "RE40", "scroll": 13},
+        {"num": 30, "id": 510, "code": "RB30", "scroll": 13}
+    ]
+}
