@@ -8,6 +8,7 @@
         "hid": "701",
         "brightness": 6,
         "clock_duration_seconds": 30
+        "timezone_offset": 7200
     },
     "lines": [
         {"num": 1, "id": 510, "code": "RE1", "scroll": 9},
